@@ -32,14 +32,13 @@
 
 ### 🧩 Проекты
 - 🧠 [*Data Analyzer*](https://github.com/YOUR_USERNAME/data-analyzer) — аналитика продаж и визуализация на FastAPI  
-- ⚙️ [*IoT Dashboard*](https://github.com/YOUR_USERNAME/iot-dashboard) — система мониторинга устройств на Python + MongoDB  
 - 🐳 [*Dockerized Backend Template*](https://github.com/YOUR_USERNAME/docker-backend) — быстрый старт для микросервисов  
 
 ---
 
 ### 🛰️ Соцсети
 <p align="center">
-  <a href="https://t.me/eg1oria"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Nnugke"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
